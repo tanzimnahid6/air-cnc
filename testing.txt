@@ -1,0 +1,8 @@
+ VITE_apiKey= AIzaSyDY4ZP5N4I2S9owkVgLW4mmf04BgFMAzmo
+  VITE_authDomain= air-cnc-1ec3d.firebaseapp.com
+  VITE_projectI= air-cnc-1ec3d
+  VITE_storageBucket= air-cnc-1ec3d.appspot.com
+  VITE_messagingSenderId= 1086238940137
+  VITE_appId= 1:1086238940137:web:945c3d9bdeb26f3b418978
+
+  VITE_IMGBB_KEY= 02d7a53b27867afa9a930f0fa6f6b74d
